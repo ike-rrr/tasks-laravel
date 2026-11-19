@@ -9,7 +9,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: gray;
+            background-color: red;
             text-align: center;
             padding: 80px 20px;
         }
